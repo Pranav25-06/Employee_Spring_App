@@ -10,9 +10,9 @@ logging:
 spring:
  datasource:
   driver-class-name: com.mysql.cj.jdbc.Driver
-  url: jdbc:mysql://localhost:3306/college
-  password: Pranav@2506
-  username: root
+   url: jdbc:mysql://mysql-16713515-pranavgore.h.aivencloud.com:25666/defaultdb?ssl-mode=REQUIRED
+   username: avnadmin
+   password: AVNS_loB4jAaxuMdtkfaJSSo
  jpa:
   hibernate:
    ddl-auto: update
